@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/crist/OneDrive/Área%20de%20Trabalho/NetBeansProjects/DesignPattern-main/DesignerPatterms_Decorator/lib/nblibraries.properties</file>
+            <file>file:/C:/Users/crist/OneDrive/Área%20de%20Trabalho/NetBeansProjects/DesignPattern-main/DesignerPatterms_Decorator/build.xml</file>
+            <file>file:/C:/Users/crist/OneDrive/Área%20de%20Trabalho/NetBeansProjects/DesignPattern-main/DesignerPatterms_Decorator/src/designerpatterms_decorator/EmailNotifier.java</file>
+            <file>file:/C:/Users/crist/OneDrive/Área%20de%20Trabalho/NetBeansProjects/DesignPattern-main/DesignerPatterms_Decorator/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/crist/OneDrive/Área%20de%20Trabalho/NetBeansProjects/DesignPattern-main/DesignerPatterms_Decorator/src/designerpatterms_decorator/SMSDecorator.java</file>
+            <file>file:/C:/Users/crist/OneDrive/Área%20de%20Trabalho/NetBeansProjects/DesignPattern-main/DesignerPatterms_Decorator/src/designerpatterms_decorator/WhatsAppDecorator.java</file>
+            <file>file:/C:/Users/crist/OneDrive/Área%20de%20Trabalho/NetBeansProjects/DesignPattern-main/DesignerPatterms_Decorator/nbproject/private/private.properties</file>
+            <file>file:/C:/Users/crist/OneDrive/Área%20de%20Trabalho/NetBeansProjects/DesignPattern-main/DesignerPatterms_Decorator/src/designerpatterms_decorator/DesignerPatterms_Decorator.java</file>
+            <file>file:/C:/Users/crist/OneDrive/Área%20de%20Trabalho/NetBeansProjects/DesignPattern-main/DesignerPatterms_Decorator/src/designerpatterms_decorator/NotificationDecorator.java</file>
+            <file>file:/C:/Users/crist/OneDrive/Área%20de%20Trabalho/NetBeansProjects/DesignPattern-main/DesignerPatterms_Decorator/src/designerpatterms_decorator/Notifier.java</file>
+            <file>file:/C:/Users/crist/OneDrive/Área%20de%20Trabalho/NetBeansProjects/DesignPattern-main/DesignerPatterms_Decorator/manifest.mf</file>
+        </group>
+    </open-files>
+</project-private>
